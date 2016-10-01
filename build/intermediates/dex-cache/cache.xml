@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_4de9ab13dc541ec960ec546421da1145457ccf64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_89e33512906e0f2470e673240dce7142599c70d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_555efba14e4baf1560f9f9ef3a0f197540a9cab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_169c365b656650dc445674a25a1583319b59e928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b8162074aa76344e757dc8fb944f24a33ec5bdb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3579a372177e283420c55de00447ec247322bfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1efba3d257f91652cd0417279217b7e9ab467231">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_99eaa75058946be73d4ac379def2f6d60fa45496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c3a97024c011c8e67c06c0c7fe6e35b1fd265db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5c14186e8e0142d0f83fc8713b0bbf7d2900479b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2c8af20155ce2f3af43b4ef7147d66a7af105956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_441529687809f0adaf20eea9d64b1d4e98fd6f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4452b23ade9acded8a8db68557ff879868488da8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_55a6401a09ea2cb0c58816fa131dc03f5c26ef0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6e283afa439b58902edce2de577bb27269248b94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_4df0b10993c1d69e94ebbd1cb075d000b937ceed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_67e182da4892b12b7e50aa97d4a317fed580ec73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="644dc42dbe7d1789e8d68f154bece867684747fa">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7bd910a238bcabe5a22a19eb20579443c78bfc95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a5e99b3eca0c7dab226efe2fec0d93a92eb85f41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/johnsuarez/dev/stash-hhonors/hilton-android-app/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0c9df85b17da7058b7d0ca36332456d6ac0abdfd/classes.dex" />
+    </item>
+
+</items>
